@@ -1,0 +1,26 @@
+body{
+    background-color: lightsteelblue;
+    font-size: 15px;
+    font-style: Arial;
+}
+
+
+section{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin-top: 30px;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-style: solid;
+    box-shadow: 5px 10px gray;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+#icons{
+    display: flex;
+    justify-content: center;
+}
